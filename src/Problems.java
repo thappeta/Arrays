@@ -12,6 +12,10 @@ public class Problems {
         return 0;
     }
 
+    public static  int largestNumber(int[] usrInput){
+        return 0;
+    }
+
     public static void maxandminElement(int []usrInput){
         int max=Integer.MIN_VALUE;
         int min=Integer.MAX_VALUE;
